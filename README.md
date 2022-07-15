@@ -1,3 +1,3 @@
 # telegrambot
 
-Simmple Telegram Bot with Telegram Channel => @BotFather 
+Simple Telegram Bot with Telegram Channel => @BotFather 
